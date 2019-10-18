@@ -1,5 +1,7 @@
 {
   "name": "Consolidado_Ranco",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
